@@ -1,0 +1,9 @@
+pandas
+openpyxl
+chromadb
+sentence-transformers
+transformers
+torch
+groq
+numpy
+fastapi
